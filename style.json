@@ -116,6 +116,16 @@
 	"featureType": "building",
 	"zooms": "15-16",
 	"stylers": {
+		"opacity": 0.4,
+		"outline-width": 0.1,
+		"outline-color": "#f3f0e7",
+		"visibility": "on",
+		"color": "#F2EDDF"}
+ },
+ {
+	"featureType": "building",
+	"zooms": "16-17",
+	"stylers": {
 		"opacity": 0.6,
 		"outline-width": 0.1,
 		"outline-color": "#f3f0e7",
@@ -124,7 +134,7 @@
  },
  {
 	"featureType": "building",
-	"zooms": "16-18",
+	"zooms": "17-18",
 	"stylers": {
 		"opacity": 0.8,
 		"outline-width": 0.1,
